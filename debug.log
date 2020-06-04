@@ -1,0 +1,2 @@
+[0530/200850.421:ERROR:file_io.cc(89)] ReadExactly: expected 152, observed 120
+[0530/200850.579:ERROR:crashpad.cc(145)] Failed to get activation factory for IPlatformDiagnosticsAndUsageDataSettingsStatics
